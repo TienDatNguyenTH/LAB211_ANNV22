@@ -72,7 +72,7 @@
 ## 📈 LOC Progress
 
 <p align="center">
-  <img src="[https://quickchart.io/chart?c={type:'line',data:{labels:['Day1','Day2','Day3','Day4','Day5'],datasets:[{label:'LOC',data:[50,200,400,700,778]}]}}](https://scontent.fhan5-11.fna.fbcdn.net/v/t1.15752-9/671983297_4090629557895824_6283181405621369236_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeHbqGQMIN3xWtUlmRv0sIZCwiV-QjIviYnCJX5CMi-JiYE1H4fNtQNUF8QZrvCwbreKQb0ALLmr6RCOTYFN-YuJ&_nc_ohc=MmP-DMEURAgQ7kNvwFnsQuo&_nc_oc=AdpezNjmbQDbRFDeZx_sBMGNxVBm6-gz6RsUyKcboAn2DETtxf6lcHs4Q_C7Oxuo_Tc&_nc_zt=23&_nc_ht=scontent.fhan5-11.fna&oh=03_Q7cD5AEcMh8yQVh-JXsji1czQueLsQJ_i7eX6NweU6yRwVchhg&oe=6A126C6D)"/>
+  <img src="https://scontent.fhan5-11.fna.fbcdn.net/v/t1.15752-9/671983297_4090629557895824_6283181405621369236_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeHbqGQMIN3xWtUlmRv0sIZCwiV-QjIviYnCJX5CMi-JiYE1H4fNtQNUF8QZrvCwbreKQb0ALLmr6RCOTYFN-YuJ&_nc_ohc=MmP-DMEURAgQ7kNvwFnsQuo&_nc_oc=AdpezNjmbQDbRFDeZx_sBMGNxVBm6-gz6RsUyKcboAn2DETtxf6lcHs4Q_C7Oxuo_Tc&_nc_zt=23&_nc_ht=scontent.fhan5-11.fna&oh=03_Q7cD5AEcMh8yQVh-JXsji1czQueLsQJ_i7eX6NweU6yRwVchhg&oe=6A126C6D"/>
 </p>
 
 ---
