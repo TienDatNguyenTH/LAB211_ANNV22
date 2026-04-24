@@ -80,11 +80,11 @@
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TienDatNguyenTH&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com/?user=TienDatNguyenTH&theme=tokyonight"/>
 </p>
 
 ---
@@ -92,6 +92,12 @@
 ## 💬 Quote
 
 > "First, solve the problem. Then, write the code."
+> Đừng dùng điện thoại trong lớp, nếu muốn dùng hãy ra ngoài.
+> Buổi tối hôm trước học thì hãy xem qua code flow và các class để lúc lên lớp không bị cuống và không bị lỗi vặt khi code.
+> Thường xuyên hỏi cùng với một thái độ cầu tiến.
+> Làm được bài nào nên review và sửa ngay trong ngày hôm đấy đừng để đến hôm sau review lại là thầy sẽ tìm những lỗi khác.
+> Thầy An dễ nhưng cái gì ra cái đấy đừng vội đừng hấp tấp.
+> Một lần nữa chúc các bạn may mắn. Good luck <3
 
 ---
 
