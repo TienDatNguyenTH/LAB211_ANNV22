@@ -91,7 +91,7 @@
 
 ## 💬 Quote
 
-> "First, solve the problem. Then, write the code."
+> "First, solve the problem. Then, write the code."\n
 > Đừng dùng điện thoại trong lớp, nếu muốn dùng hãy ra ngoài.
 > Buổi tối hôm trước học thì hãy xem qua code flow và các class để lúc lên lớp không bị cuống và không bị lỗi vặt khi code.
 > Thường xuyên hỏi cùng với một thái độ cầu tiến.
